@@ -1,4 +1,4 @@
-# blucora
+# ness-digital-test
 
 ## Project setup
 ```
